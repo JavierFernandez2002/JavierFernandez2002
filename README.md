@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Fernandez</h1>
 <h3 align="center">A passionate data developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Youtube Data Pipeline**
+- 🔭 I’m currently working on **Web Scraping Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JavierFernandez2002](https://github.com/JavierFernandez2002)
 
