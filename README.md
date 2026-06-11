@@ -1,127 +1,118 @@
-<h1 align="center">Hi 👋, I'm Javier Fernandez</h1>
-<h3 align="center">Information Systems Engineering student and aspiring software developer from Argentina</h3>
+<h1 align="center">Hi, I'm Javier Fernandez 👋</h1>
 
 <p align="center">
-I enjoy building useful solutions, learning by doing, and growing through academic and personal projects.
-Currently focused on backend development, web applications, REST APIs, SQL databases, and automation with Python.
+  <b>Software Engineer · Backend · Java · Spring Boot · TypeScript</b><br/>
+  <i>Building production-grade APIs @ Globant · Buenos Aires, Argentina 🇦🇷</i>
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 I’m an **Information Systems Engineering student**
-- 💻 I’m focused on **software development**, especially backend and web development
-- 🌱 I’m currently improving my skills in **Node.js, Java, Spring Boot, SQL, and software design**
-- 🛠️ I also enjoy working on **automation scripts with Python** and low-level projects in **C**
-- 📚 I like learning by building real projects and applying best practices
-
----
-
-## 🔭 Current Focus
-
-- Backend development with **Node.js** and **Java**
-- Building **REST APIs**
-- Working with **SQL databases**
-- Creating projects for my portfolio
-- Improving problem-solving and software engineering skills
-
----
-
-## 📌 Featured Projects
-
-### 🗺️ Geolocated Events Management Web Application
-A full-stack microservices-based web application built for an academic project.  
-Designed for collecting, publishing, and interactively visualizing geolocated events in real time.
-
-**Tech:** Java, Microservices, Full Stack, Cloud & DevOps
-
-### 🖥️ Master Of Files - Operating System Simulator
-A distributed system simulation developed for an Operating Systems course project.  
-It includes process coordination, memory handling, inter-module communication, and file-system-related operations.
-
-**Tech:** C, GNU Make
-
-### ✅ Task Tracker CLI
-A command-line application to create, update, and delete tasks, storing data in a JSON file.
-
-**Tech:** Node.js, JavaScript, CLI
-
----
-
-## 🧰 Languages and Tools
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/javierarmandofernandez/">
+    <img src="https://img.shields.io/badge/LinkedIn-javierarmandofernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/gnu-c-manual/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <a href="mailto:fernandezjavier2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fernandezjavier2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 My Projects
+## 👨‍💻 About Me
 
-All of my projects are available at:  
-[https://github.com/JavierFernandez2002](https://github.com/JavierFernandez2002)
+Software Engineer con 1.5 años de experiencia en backend production-grade. Diseño y construyo APIs REST que escalan.
+
+- 🏢 **Software Engineer @ [Globant](https://www.globant.com/)** — sistema con 150,000+ usuarios activos
+- 📐 Diseñé y mantuve **200+ endpoints REST** en producción con arquitectura por capas
+- ⚡ Reduje latencia de API de **850 ms → <150 ms** en sistema IoT a gran escala
+- 🎓 Estudiante de **Ingeniería en Sistemas** — UTN (2022–2028)
+- 📍 Buenos Aires · Open to remote LATAM
 
 ---
 
-## 💬 Ask Me About
+## 🛠️ Tech Stack
 
-**Java, Spring Boot, Node.js, JavaScript, HTML, CSS, SQL, Python, C, and backend development**
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Infra & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 💼 Experience
+
+### Software Engineer — [Globant](https://www.globant.com/) *(Mar 2025 – Present)*
+
+> Stack: `Java` · `Spring Boot` · `TypeScript` · `Node.js` · `React` · `PostgreSQL` · `Docker` · `AWS`
+
+- Diseño e implementación de **200+ endpoints REST** en producción con arquitectura por capas y separación de responsabilidades
+- Optimización de validaciones backend en sistema IoT: latencia reducida de **850 ms → <150 ms** en plataforma con **150k+ usuarios**
+- Implementación de manejo de errores estructurado y logging de trazabilidad, reduciendo el tiempo de debugging del equipo
+- Integración con bases de datos SQL relacionales bajo arquitectura multicapa, garantizando consistencia en consultas críticas
+- Trabajo en equipo de 6 ingenieros bajo metodología **Agile**, con code reviews y definición de estándares de calidad
+
+---
+
+## 🚀 Featured Projects
+
+### 🗺️ [Geolocated Events Web App](https://github.com/JavierFernandez2002/Aplicacion-Web-de-Gestion-y-Visualizacion-de-Hechos-Geolocalizados)
+Full-stack microservices application for collecting, publishing, and visualizing geolocated events in real time.  
+`Java` · `Microservices` · `Full Stack`
+
+### 🛒 [Nilo On-Demand — 3D Printing E-Commerce](https://github.com/JavierFernandez2002/Nilo-On-Demand)
+E-commerce platform for on-demand 3D printing services.  
+`TypeScript` · `Node.js`
+
+### 🛒 [Market API](https://github.com/JavierFernandez2002/MarketApi)
+RESTful API built with Java Spring Boot for product and market management.  
+`Java` · `Spring Boot` · `REST API`
+
+### 🖥️ [Master Of Files — OS Simulator](https://github.com/JavierFernandez2002/Simulador-de-Sistema-Operativo-Master-Of-Files)
+Distributed system simulation: process coordination, memory management, and inter-module communication.  
+`C` · `GNU Make` · `Systems Programming`
+
+### 📊 [BI Database Migration](https://github.com/JavierFernandez2002/Migracion-de-Base-de-Datos-Modelo-BI-Gestion-de-Cursos)
+Database migration and BI modeling for course management analytics.  
+`T-SQL` · `SQL Server` · `Business Intelligence`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierFernandez2002&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierFernandez2002&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 📫 Contact
 
-- **Email:** fernandezjavier2002@gmail.com
-- **LinkedIn:** [javier-fernandez-953686264](https://www.linkedin.com/in/javier-fernandez-953686264/)
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/javier-fernandez-953686264/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier fernandez" height="30" width="40" />
-</a>
-<a href="https://instagram.com/javier.nandez" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javier.nandez" height="30" width="40" />
-</a>
-</p>
+- 📧 fernandezjavier2002@gmail.com
+- 💼 [linkedin.com/in/javierarmandofernandez](https://www.linkedin.com/in/javierarmandofernandez/)
+- 📍 Buenos Aires, Argentina · Open to remote LATAM
